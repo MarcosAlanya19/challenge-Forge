@@ -3,6 +3,7 @@
 </p>
 
 > Desafios pre-beca de Forge, donde se uso HTML, CSS y JS
+> 
 ![](NINJA2/img/left1.png) ![](NINJA2/img/left2.png) ![](NINJA2/img/left1.png) ![](NINJA2/img/left2.png) ![](NINJA2/img/left1.png) ![](NINJA2/img/left2.png) ![](NINJA2/img/left1.png) ![](NINJA2/img/left2.png)
 
 ## Author
